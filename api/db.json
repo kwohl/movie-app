@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Adventures in Babysitting",
+            "yearReleased": 1987
+        },
+        {
+            "id": 2,
+            "title": "GATTICA",
+            "yearReleased": 1997
+        },
+        {
+            "id": 3,
+            "title": "The Jungle Book",
+            "yearReleased": 1967
+        }
+    ]
+}
